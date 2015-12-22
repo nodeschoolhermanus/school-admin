@@ -4,3 +4,6 @@ ERP for school administration
 # feature-list
 Please add your feature ideas and suggestions to Issues.
 e.g. https://github.com/nodeschoolhermanus/school-admin/issues/1
+
+# MIT license
+https://opensource.org/licenses/MIT
