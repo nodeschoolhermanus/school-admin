@@ -5,5 +5,8 @@ ERP for school administration
 Please add your feature ideas and suggestions to Issues.
 e.g. https://github.com/nodeschoolhermanus/school-admin/issues/1
 
+# AllcountJS
+![alt text](https://github.com/nodeschoolhermanus/school-admin/AllcountJS_HelloWorld.png "Hello World")
+
 # MIT license
 https://opensource.org/licenses/MIT

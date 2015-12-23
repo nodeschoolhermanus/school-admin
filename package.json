@@ -1,0 +1,16 @@
+{
+  "name": "school-admin",
+  "version": "1.0.0",
+  "author": {
+    "name": "nodeschoolhermanus",
+    "email": "nodeschoolhermanus@gmail.com"
+  },
+  "description": "ERP for school administration",
+  "dependencies": {
+    "allcountjs": "^1.14.5"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/allcountjs --app app-config"
+  },
+  "allcountjsTemplate": "twenty-two-lines"
+}
